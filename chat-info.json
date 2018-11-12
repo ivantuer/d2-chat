@@ -1,0 +1,201 @@
+{
+  "users": [
+     {
+       "id":0,
+        "name": "Miranda Hops",
+        "image": "miranda.png",
+        "online": true,
+        "muted": true,
+        "read": true,
+        "messages": [
+           {
+              "id": 0,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:20",
+              "whose": "my"
+           },
+           {
+              "id": 1,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:22",
+              "whose": "user"
+           },
+           {
+              "id": 2,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:28",
+              "whose": "my"
+           }
+        ]
+     },
+     {
+      "id":1,
+
+        "name": "Barry Callebaut",
+        "image": "barry.png",
+        "online": true,
+        "muted": false,
+        "read": true,
+        "messages": [
+           {
+              "id": 0,
+              "text": "Lorem ipsum dolor sit amet.",
+              "time": "10:10",
+              "whose": "my"
+           },
+           {
+              "id": 1,
+              "text": "Hi johny",
+              "time": "10:39",
+              "whose": "user"
+           },
+           {
+              "id": 2,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:58",
+              "whose": "my"
+           }
+        ]
+     },
+     {
+      "id":2,
+
+        "name": "Stacey Dosh",
+        "image": "stasey.png",
+        "online": false,
+        "muted": false,
+        "read": false,
+        "messages": [
+           {
+              "id": 0,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:20",
+              "whose": "my"
+           },
+           {
+              "id": 1,
+              "text": "How r u?",
+              "time": "10:40",
+              "whose": "user"
+           },
+           {
+              "id": 2,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "my"
+           },
+           {
+              "id": 3,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "user"
+           }
+        ]
+     },
+     {
+      "id":3,
+
+        "name": "Michael Cors",
+        "image": "michael.png",
+        "online": false,
+        "muted": true,
+        "read": false,
+        "messages": [
+           {
+              "id": 0,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:20",
+              "whose": "my"
+           },
+           {
+              "id": 1,
+              "text": "How r u?",
+              "time": "10:40",
+              "whose": "user"
+           },
+           {
+              "id": 2,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "my"
+           },
+           {
+              "id": 3,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "user"
+           }
+        ]
+     },
+     {
+      "id":4,
+
+        "name": "Johny Cash",
+        "image": "johny.png",
+        "online": false,
+        "muted": false,
+        "read": false,
+        "messages": [
+           {
+              "id": 0,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:20",
+              "whose": "my"
+           },
+           {
+              "id": 1,
+              "text": "How r u?",
+              "time": "10:40",
+              "whose": "user"
+           },
+           {
+              "id": 2,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "my"
+           },
+           {
+              "id": 3,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "user"
+           }
+        ]
+     },
+     {
+      "id":5,
+
+        "name": "Stacey Dosh",
+        "image": "stacey-girl.png",
+        "online": false,
+        "muted": false,
+        "read": false,
+        "messages": [
+           {
+              "id": 0,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "10:20",
+              "whose": "my"
+           },
+           {
+              "id": 1,
+              "text": "How r u?",
+              "time": "10:40",
+              "whose": "user"
+           },
+           {
+              "id": 2,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "my"
+           },
+           {
+              "id": 3,
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, laboriosam?",
+              "time": "12:28",
+              "whose": "user"
+           }
+        ]
+     }
+  ]
+}
